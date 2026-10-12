@@ -20,4 +20,3 @@
 - https://dsargsan6-art.github.io/TIP-practices/practice-03/index.html?dataset=variant - мой вариант 8
 - https://dsargsan6-art.github.io/TIP-practices/practice-03/examples/dom-events.html - эксперименты с DOM
 - https://dsargsan6-art.github.io/TIP-practices/practice-03/checks.html  автоматические проверки
-- https://dsargsan6-art.github.io/TIP-practices/practice-01/index.html - практика 1
