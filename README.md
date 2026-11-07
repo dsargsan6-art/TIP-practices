@@ -13,10 +13,10 @@
 - [Практическая работа № 1: Подготовка окружения и первые программы на JavaScript](./practice-01/README.md)
 - [Практическая работа № 2: Функции, объекты, массивы и организация кода](./practice-02/README.md)
 - [Практическая работа № 3: Работа с DOM и событиями](./practice-03/README.md)
+- [Практическая работа № 4: Формы, валидация и локальное хранение данных](./practice-04/README.md)
+- [Практическая работа № 5: Асинхронное программирование и HTTP API](./practice-05/README.md)
+- [Практическая работа № 6: Браузерный клиент HTTP API](./practice-06/README.md)
 
-## Активные ссылки
+## Контрольная работа № 2
 
-- https://dsargsan6-art.github.io/TIP-practices/practice-03/index.html - список задач, общий набор
-- https://dsargsan6-art.github.io/TIP-practices/practice-03/index.html?dataset=variant - мой вариант 8
-- https://dsargsan6-art.github.io/TIP-practices/practice-03/examples/dom-events.html - эксперименты с DOM
-- https://dsargsan6-art.github.io/TIP-practices/practice-03/checks.html  автоматические проверки
+Проверочные скрипты и порядок проверки находятся в папке [kr2](./kr2/README.md).
